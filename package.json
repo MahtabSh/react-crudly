@@ -1,0 +1,22 @@
+{
+  "name": "react-crudly",
+  "version": "0.0.0",
+  "description": "React component for crudly.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahtabSh/react-crudly.git"
+  },
+  "keywords": [
+    "crudly"
+  ],
+  "author": "Mahtab Shahsavan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MahtabSh/react-crudly/issues"
+  },
+  "homepage": "https://github.com/MahtabSh/react-crudly#readme"
+}
